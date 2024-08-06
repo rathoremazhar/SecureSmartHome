@@ -1,0 +1,6 @@
+MaptoPoint time: 18.55
+IBC Element Multiplication time: 6.161
+Registeration Phase time: 275.457
+Commitment Generation time: 12.477
+IBE Signature Verification Time: 22.603
+IBE Signature Verification Time: 22.54

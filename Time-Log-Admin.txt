@@ -1,0 +1,7 @@
+MaptoPoint: 18.582
+IBE Element Multiplication time: 6.183
+IBC Commitment generation time: 17.59
+ibc signature (256bytes) time: 8.651
+IBC Commitment Verification time: 6.562
+IBC Element Addition time: 0.001
+IBC Element Addition time: 0.021
